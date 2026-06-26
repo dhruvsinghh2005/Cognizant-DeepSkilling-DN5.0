@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled classes
+out/
+
+# Project file
+*.iml
